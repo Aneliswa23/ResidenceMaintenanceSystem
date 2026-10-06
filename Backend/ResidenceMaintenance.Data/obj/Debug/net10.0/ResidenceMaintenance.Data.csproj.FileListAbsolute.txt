@@ -16,3 +16,5 @@ C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Bac
 C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ref\ResidenceMaintenance.Data.dll
 C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Core.dll
 C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Core.pdb
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Data.runtimeconfig.json
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.genruntimeconfig.cache
