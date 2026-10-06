@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ResidenceMaintenance.API/ResidenceMaintenance.API.csproj" />
+  <Project Path="ResidenceMaintenance.Core/ResidenceMaintenance.Core.csproj" />
+  <Project Path="ResidenceMaintenance.Data/ResidenceMaintenance.Data.csproj" />
+  <Project Path="ResidenceMaintenance.Shared/ResidenceMaintenance.Shared.csproj" />
+</Solution>

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ResidenceMaintenance.Core/1.0.0": {
+        "dependencies": {
+          "ResidenceMaintenance.Data": "1.0.0",
+          "ResidenceMaintenance.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ResidenceMaintenance.Core.dll": {}
+        }
+      },
+      "ResidenceMaintenance.Data/1.0.0": {
+        "dependencies": {
+          "ResidenceMaintenance.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ResidenceMaintenance.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ResidenceMaintenance.Shared/1.0.0": {
+        "runtime": {
+          "ResidenceMaintenance.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResidenceMaintenance.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResidenceMaintenance.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResidenceMaintenance.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

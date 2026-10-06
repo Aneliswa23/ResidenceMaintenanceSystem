@@ -1,0 +1,16 @@
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Data.deps.json
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Data.dll
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Data.pdb
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Shared.dll
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\bin\Debug\net10.0\ResidenceMaintenance.Shared.pdb
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.csproj.AssemblyReference.cache
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.AssemblyInfoInputs.cache
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.AssemblyInfo.cs
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.csproj.CoreCompileInputs.cache
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.sourcelink.json
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\Residenc.7F834864.Up2Date
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.dll
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\refint\ResidenceMaintenance.Data.dll
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ResidenceMaintenance.Data.pdb
+C:\Users\NeliswaMfeka\OneDrive - Phungela\Desktop\ResidenceMaintenanceSystem\Backend\ResidenceMaintenance.Data\obj\Debug\net10.0\ref\ResidenceMaintenance.Data.dll
