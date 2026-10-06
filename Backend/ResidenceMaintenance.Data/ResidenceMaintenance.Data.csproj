@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ResidenceMaintenance.Shared\ResidenceMaintenance.Shared.csproj" />
+    <ProjectReference Include="..\ResidenceMaintenance.Core\ResidenceMaintenance.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

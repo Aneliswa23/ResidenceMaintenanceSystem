@@ -2,19 +2,6 @@
   "version": 4,
   "targets": {
     "net10.0": {
-      "ResidenceMaintenance.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "ResidenceMaintenance.Shared": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ResidenceMaintenance.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ResidenceMaintenance.Data.dll": {}
-        }
-      },
       "ResidenceMaintenance.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -28,11 +15,6 @@
     }
   },
   "libraries": {
-    "ResidenceMaintenance.Data/1.0.0": {
-      "type": "project",
-      "path": "../ResidenceMaintenance.Data/ResidenceMaintenance.Data.csproj",
-      "msbuildProject": "../ResidenceMaintenance.Data/ResidenceMaintenance.Data.csproj"
-    },
     "ResidenceMaintenance.Shared/1.0.0": {
       "type": "project",
       "path": "../ResidenceMaintenance.Shared/ResidenceMaintenance.Shared.csproj",
@@ -41,7 +23,6 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "ResidenceMaintenance.Data >= 1.0.0",
       "ResidenceMaintenance.Shared >= 1.0.0"
     ]
   },
@@ -78,9 +59,6 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Data\\ResidenceMaintenance.Data.csproj": {
-              "projectPath": "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Data\\ResidenceMaintenance.Data.csproj"
-            },
             "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Shared\\ResidenceMaintenance.Shared.csproj": {
               "projectPath": "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Shared\\ResidenceMaintenance.Shared.csproj"
             }

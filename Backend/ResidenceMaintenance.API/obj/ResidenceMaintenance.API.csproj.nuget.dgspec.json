@@ -533,9 +533,6 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Data\\ResidenceMaintenance.Data.csproj": {
-                "projectPath": "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Data\\ResidenceMaintenance.Data.csproj"
-              },
               "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Shared\\ResidenceMaintenance.Shared.csproj": {
                 "projectPath": "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Shared\\ResidenceMaintenance.Shared.csproj"
               }
@@ -881,6 +878,9 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
+              "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Core\\ResidenceMaintenance.Core.csproj": {
+                "projectPath": "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Core\\ResidenceMaintenance.Core.csproj"
+              },
               "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Shared\\ResidenceMaintenance.Shared.csproj": {
                 "projectPath": "C:\\Users\\NeliswaMfeka\\OneDrive - Phungela\\Desktop\\ResidenceMaintenanceSystem\\Backend\\ResidenceMaintenance.Shared\\ResidenceMaintenance.Shared.csproj"
               }

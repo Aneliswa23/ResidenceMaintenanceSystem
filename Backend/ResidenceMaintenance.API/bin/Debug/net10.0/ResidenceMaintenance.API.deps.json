@@ -38,7 +38,6 @@
       },
       "ResidenceMaintenance.Core/1.0.0": {
         "dependencies": {
-          "ResidenceMaintenance.Data": "1.0.0",
           "ResidenceMaintenance.Shared": "1.0.0"
         },
         "runtime": {
@@ -50,6 +49,7 @@
       },
       "ResidenceMaintenance.Data/1.0.0": {
         "dependencies": {
+          "ResidenceMaintenance.Core": "1.0.0",
           "ResidenceMaintenance.Shared": "1.0.0"
         },
         "runtime": {

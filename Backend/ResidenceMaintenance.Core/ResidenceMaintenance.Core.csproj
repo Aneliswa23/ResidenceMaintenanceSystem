@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ResidenceMaintenance.Data\ResidenceMaintenance.Data.csproj" />
     <ProjectReference Include="..\ResidenceMaintenance.Shared\ResidenceMaintenance.Shared.csproj" />
   </ItemGroup>
 
